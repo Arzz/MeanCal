@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MeanCal.iml" filepath="$PROJECT_DIR$/MeanCal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arzzzlib/arzzzlib.iml" filepath="$PROJECT_DIR$/arzzzlib/arzzzlib.iml" />
+    </modules>
+  </component>
+</project>
